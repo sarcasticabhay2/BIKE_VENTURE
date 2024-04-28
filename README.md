@@ -8,7 +8,7 @@ https://bike-venture.vercel.app/login
 ![App Screenshot](client/images/3.png)
 # BikeVenture 
 
-This is a bike rental system project built using React, Redux, Ant Design (antd), Node.js, Express.js, and MongoDB.
+This is a bike rental system project built using React, Redux, Ant Design (antd), Node.js, Express.js, and  MongoDB.
 
 ## Overview
 
